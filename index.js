@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Jogando Xvideos","Fazendo dinheiro","Money"];
+const statusMessages = ["Destiny Z","The Beast Server","Bot creator Hoko.xpn"];
 
 
 let currentIndex = 0;
