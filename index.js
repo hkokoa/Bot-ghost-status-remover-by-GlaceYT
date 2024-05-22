@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Destiny Z The Beast Server","Bot creator Hoko.xpn"];
+const statusMessages = ["Destiny Z The Best Server ☣ ","Bot creator Hoko.xpn 🔅 "];
 
 
 let currentIndex = 0;
